@@ -1,3 +1,6 @@
+> [!NOTE]
+> To [`jennienguyn`](https://github.com/jennienguyn), you are not welcomed here, period.
+
 # My AoC archives
 
 This repository is my Advent of Code solutions, hopefully in Rust.
