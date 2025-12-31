@@ -1,0 +1,4 @@
+/target
+
+# for every child workspaces
+**/target

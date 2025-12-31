@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/aoc-0000/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aoc-lib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aoc-macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/aoc-2025/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/aoc-0000/target" />
+      <excludeFolder url="file://$MODULE_DIR$/aoc-2025/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

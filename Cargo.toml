@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["aoc-0000", "aoc-lib", "aoc-macro", "aoc-2025"]
